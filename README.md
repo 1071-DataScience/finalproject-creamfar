@@ -1,12 +1,13 @@
-# < Title of your final project >
+# < Stay in NBA  pridiction >
 
 ### Groups
-* < name, student ID1 >
-* < name, student ID2 >
-* < name, student ID3 >
+* < 簡豪廷, 107753026 >
+* < 江承憲, 107753031 >
+* < 陳遠  , 107753040 >
 
 ### Goal
-A breif introduction about your project, i.e., what is your goal?
+we designed a variety of information through historical players to train, trying to predict whether a player will continue to play in the NBA in the next season.
+
 
 ### demo 
 You should provide an example commend to reproduce your result
